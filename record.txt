@@ -1,0 +1,10 @@
+__________XYZ Airlines______
+___________Ticket____________
+__________________________________
+Customer ID:12
+Customer Name:vivek
+Customer Gender :m
+	Description
+
+Destination		Canada
+flight cost: 		34000
